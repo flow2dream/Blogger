@@ -1,0 +1,17 @@
+{
+    "config": {
+        "username": "BANG",
+        "avatarPath": "你的头像图片链接",
+        "description": "你的博客简介",
+        "name": "BANG",
+        "blogTitle": "你的博客标题",
+        "blogStartYear": 2019 
+    },
+    "contacts": [ 
+        {
+            "name": "联系方式名称",
+            "value": "联系方式内容，例如你的电子邮箱地址",
+            "link": "联系方式链接，例如：mailto:xxx@example.com"
+        }
+    ]
+}
